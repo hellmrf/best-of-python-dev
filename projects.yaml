@@ -129,6 +129,11 @@ projects:
     category: dependency-managers
     pypi_id: poetry
     conda_id: conda-forge/poetry
+  - name: uv
+    github_id: astral-sh/uv
+    category: dependency-managers
+    pypi_id: uv
+    conda_id: conda-forge/uv
   - name: dephell
     github_id: dephell/dephell
     category: dependency-managers
